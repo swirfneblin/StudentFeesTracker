@@ -1,0 +1,5 @@
+# gitignore file for dotnet core projects
+
+# Build results
+[Dd]ebug/
+[Oo]bj/
